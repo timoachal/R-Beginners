@@ -47,7 +47,10 @@ This repository is designed for beginners who want to learn R programming and da
   - Publication-ready graphics
 
 ### 📋 Sample Data
-- **sales_data.csv** - Real-world sample dataset to practice data import, manipulation, and analysis
+- **sales_data.csv** - sample dataset for **Data Visualization**
+- **departments.csv** - sample dataset for **data manipulation and analysis**
+- **employees.csv** - sample dataset for **data manipulation and analysis**
+- **quarterly_scores** - sample dataset for **data manipulation and analysis**
 
 ## Learning Path
 
