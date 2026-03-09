@@ -1,0 +1,7 @@
+department_id,department_name,department_budget,location,head_count_target
+101,Data & Analytics,500000,Nairobi,8
+102,Engineering,900000,Nairobi,10
+103,Human Resources,300000,Mombasa,6
+104,Marketing,400000,Kisumu,7
+105,Finance,350000,Nairobi,5
+106,Legal,200000,Nairobi,3

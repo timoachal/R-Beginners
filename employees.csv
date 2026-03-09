@@ -1,0 +1,21 @@
+employee_id,name,department_id,job_title,salary,hire_date,performance_score,region,full_time
+1,Alice Mwangi,101,Data Analyst,72000,2019-03-15,4.5,East,TRUE
+2,Brian Ochieng,102,Software Engineer,95000,2018-07-22,3.8,West,TRUE
+3,Carol Njeri,101,Senior Analyst,88000,2016-01-10,4.9,East,TRUE
+4,David Kamau,103,HR Specialist,54000,2020-11-01,3.2,North,TRUE
+5,Esther Wanjiku,102,Junior Engineer,67000,2022-05-17,3.5,West,TRUE
+6,Frank Otieno,104,Marketing Manager,81000,2017-09-30,4.1,South,TRUE
+7,Grace Akinyi,103,Recruiter,49000,2021-03-08,NA,North,FALSE
+8,Henry Mutua,102,Software Engineer,92000,2018-12-19,4.0,East,TRUE
+9,Irene Chebet,104,Content Strategist,61000,2020-06-25,3.7,West,FALSE
+10,James Ndung'u,101,Data Analyst,70000,2021-08-14,NA,South,TRUE
+11,Karen Auma,105,Finance Lead,99000,2015-04-02,4.8,East,TRUE
+12,Leonard Kipchoge,103,HR Manager,74000,2016-10-11,4.3,North,TRUE
+13,Mary Wambui,105,Accountant,63000,2019-07-29,3.9,West,TRUE
+14,Nathan Oloo,102,Senior Engineer,110000,2014-02-28,4.6,East,TRUE
+15,Olive Adhiambo,104,Marketing Analyst,58000,2022-01-10,3.1,South,FALSE
+16,Peter Kariuki,101,BI Developer,85000,2018-05-05,4.4,North,TRUE
+17,Queen Nafula,105,Auditor,67000,2020-09-18,NA,West,TRUE
+18,Robert Omondi,103,Recruiter,51000,2023-02-14,2.9,South,FALSE
+19,Susan Wanjala,102,DevOps Engineer,97000,2017-11-23,4.2,North,TRUE
+20,Tom Barasa,104,SEO Specialist,55000,2021-12-01,3.6,East,FALSE
